@@ -1,0 +1,17 @@
+.App {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  /* styles.css */
+
+
+.star-container {
+  margin: 20px 0; /* Add margin for better spacing */
+}
+
+.feedback-textarea {
+  margin-top: 20px; /* Add margin to separate StarRating and Textarea */
+}
